@@ -9,7 +9,7 @@
 
 ## Repository Information
 
-Respository's URL: [https://github.com/jaisheng-ong/dbase-ongjs/tree/main](https://github.com/jaisheng-ong/dbase-ongjs/tree/main)
+Respository's URL: [https://github.com/jaisheng-ong/dbase-ongjs.git](https://github.com/jaisheng-ong/dbase-ongjs.git)
 > This is a public repository for  CS 4092 - Database Design and Development Summer 2026 class.
 
 Latest Update: 24 June 2026
