@@ -7,6 +7,9 @@
 
 **Email**: [ongjs@mail.uc.edu](mailto:ongjs@mail.uc.edu)
 
-> This is a public repository for  CS 4092 - Database Design and Development class.
+## Repository Information
+
+Respository's URL: [https://github.com/jaisheng-ong/dbase-ongjs/tree/main](https://github.com/jaisheng-ong/dbase-ongjs/tree/main)
+> This is a public repository for  CS 4092 - Database Design and Development Summer 2026 class.
 
 Latest Update: 24 June 2026
